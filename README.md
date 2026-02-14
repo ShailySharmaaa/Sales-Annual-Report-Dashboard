@@ -71,6 +71,8 @@ Vrinda Store wanted to create an annual sales report for 2022 to:
 - Reduce cancellations and returns through better quality control and communication.
   
 **Screenshort of the Dashboard**
+The Dashboard looks like- 
+https://github.com/ShailySharmaaa/Sales-Annual-Report-Dashboard/blob/main/Sales%20Annual%20Report%20Snap.png
 
 ## Author
 Shaily  
