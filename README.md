@@ -69,6 +69,8 @@ Vrinda Store wanted to create an annual sales report for 2022 to:
 - Strengthen marketing efforts in underperforming states.
 - Invest more resources into the highest-performing sales channel.
 - Reduce cancellations and returns through better quality control and communication.
+  
+**Screenshort of the Dashboard**
 
 ## Author
 Shaily  
